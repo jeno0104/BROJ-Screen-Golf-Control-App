@@ -17,7 +17,7 @@ Back-end: 1
 
 </aside>
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc82ba3c7-8cae-4fda-9d08-f09124fb046b%2Fc8768836-7b13-41e5-bc03-ede722cdbb61%2FUntitled.png?table=block&id=8027b349-9636-484a-9124-e825428dd482&spaceId=c82ba3c7-8cae-4fda-9d08-f09124fb046b&width=2000&userId=c1298d01-226a-4f5d-a00b-6aaaa9f07d2a&cache=v2" />
+![1](https://github.com/user-attachments/assets/6d120fb6-6e58-4ace-87f6-0ca9a4b7e33f)
 
 <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc82ba3c7-8cae-4fda-9d08-f09124fb046b%2Fc8768836-7b13-41e5-bc03-ede722cdbb61%2FUntitled.png?table=block&id=b2f90252-3b2f-453f-bdbc-fc735a3eaa00&spaceId=c82ba3c7-8cae-4fda-9d08-f09124fb046b&width=2000&userId=c1298d01-226a-4f5d-a00b-6aaaa9f07d2a&cache=v2" />
 <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc82ba3c7-8cae-4fda-9d08-f09124fb046b%2Fbf55ac06-2b35-4208-9b3a-4d5c8d8526f0%2FUntitled.png?table=block&id=79b0347d-5fa3-42a5-a92a-0357ef6a141a&spaceId=c82ba3c7-8cae-4fda-9d08-f09124fb046b&width=2000&userId=c1298d01-226a-4f5d-a00b-6aaaa9f07d2a&cache=v2" />
