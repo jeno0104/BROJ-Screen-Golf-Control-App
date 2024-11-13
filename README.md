@@ -26,7 +26,7 @@ Back-end: 1
 ### 💡 힐스테이트 포웰시티 커뮤니티 센터에 배포
 ![6](https://github.com/user-attachments/assets/deb7f0b0-3d8c-4234-bc15-d962a41bf5aa)
 
-
+- 현재 국내 10곳에 설치 및 해외 베트남 매장과도 계약이 체결되어 12월에 설치 예정
 
 🛠️사용 기술 및 라이브러리
 
